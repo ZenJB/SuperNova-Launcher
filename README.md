@@ -6,7 +6,7 @@ This is a powerfull Android Launcher with a full costumizable interface.
   - Android OS SmartPhone (Running Android OS 5.1 or higher)
   - Android OS SmartWatch (Running Android OS 5.1 or higher)
 
-### Installation
+## Installation
 
 Requires Android OS 5.1 or higher and an Internet Connection
 
@@ -15,4 +15,6 @@ Requires Android OS 5.1 or higher and an Internet Connection
 | Android OS 5.1 or higher |
 | Internet Connection |
 
+## API
 
+Comming Soon
