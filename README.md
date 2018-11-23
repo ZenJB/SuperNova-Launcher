@@ -2,7 +2,7 @@
 
 This is a powerfull Android Launcher with a full costumizable interface.
 
-# Compatibility
+## Compatibility
   - Android OS SmartPhone (Running Android OS 5.1 or higher)
   - Android OS SmartWatch (Running Android OS 5.1 or higher)
 
