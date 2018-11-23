@@ -1,13 +1,18 @@
-# Super Nova Android Launcher
+# SuperNova Launcher
 
-## Introduction
+This is a powerfull Android Launcher with a full costumizable interface.
 
-> This is a powerfull Android Launcher that supports SmartWatches running Android OS instead of Android Wear, and Android Phones.
+# Compatibility
+  - Android OS SmartPhone (Running Android OS 5.1 or higher)
+  - Android OS SmartWatch (Running Android OS 5.1 or higher)
 
-## Code Samples
+### Installation
 
-> Put
+Requires Android OS 5.1 or higher and an Internet Connection
 
-## Installation
+| Requirements |
+| ------ |
+| Android OS 5.1 or higher |
+| Internet Connection |
 
-> Just download the apk (being available soon) and install. Internet is required during first run.
+
