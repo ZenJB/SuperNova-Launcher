@@ -20,7 +20,9 @@ Requires Android OS 5.1 or higher and an Internet Connection
 ### How to install - SmartWatch
 
 > Install APK
+
 > Extract Default Zip File on this Repo to /sdcard/smartwatchface/interfaces
+
 > If the directories does not exist, create them
 
 
