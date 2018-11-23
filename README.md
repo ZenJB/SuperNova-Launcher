@@ -2,11 +2,13 @@
 
 This is a powerfull Android Launcher with a full costumizable interface.
 
-## Compatibility
+### It is in Alpha, so, a lot of feactures are missing and is not ready for daily use!
+
+# Compatibility
   - Android OS SmartPhone (Running Android OS 5.1 or higher)
   - Android OS SmartWatch (Running Android OS 5.1 or higher)
 
-## Installation
+# Installation
 
 Requires Android OS 5.1 or higher and an Internet Connection
 
@@ -15,6 +17,11 @@ Requires Android OS 5.1 or higher and an Internet Connection
 | Android OS 5.1 or higher |
 | Internet Connection |
 
-## API
+### How to install - SmartWatch
 
-Comming Soon
+> Install APK
+> Extract Default Zip File on this Repo to /sdcard/smartwatchface/interfaces
+> If the directories does not exist, create them
+
+
+
